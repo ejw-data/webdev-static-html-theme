@@ -1,2 +1,4 @@
-# ejw-data.github.io
-#### Static website that uses html, css stylesheets, and javascript.
+Static Website modified from [Adelle Theme](https://www.os-templates.com/)
+
+![Static Webpage Image](./images/readme/frontpage.jpg)
+
